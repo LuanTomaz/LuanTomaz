@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Luan Abreu Tomaz!  <br>> ADS student | Passionate about exploring problems and finding solutions.</h2>
+<h2 align="left"># 👋 Hello, I'm Luan Tomaz!  <br>> ADS student | Passionate about exploring problems and finding solutions.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp"  />
+<h2 align="left">Skills:</h2>
 
 ###
 
@@ -23,9 +23,11 @@
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
+
+###
+
+<h2 align="left">Contacts:</h2>
 
 ###
 
@@ -43,5 +45,11 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/LuanTomaz/LuanTomaz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="120" src="https://media.tenor.com/6JptszQgCnkAAAAm/text-work.webp"  />
+</div>
 
 ###
