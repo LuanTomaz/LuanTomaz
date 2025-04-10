@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello, I'm Luan Tomaz!  <br>> ADS student | Passionate about exploring problems and finding solutions.</h2>
+<h2 align="left">Hello, I'm Luan Abreu Tomaz!  <br>> ADS student | Passionate about exploring problems and finding solutions.</h2>
 
 ###
 
